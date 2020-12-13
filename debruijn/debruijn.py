@@ -302,7 +302,7 @@ def main():
     print('Bubble Done')
     start = get_starting_nodes(H)
     sink = get_sink_nodes(H)
-    print('Get contigs')"
+    print('Get contigs')
     test = get_contigs(H, start, sink)
     print('get contigs done')
     print('save contigs')
